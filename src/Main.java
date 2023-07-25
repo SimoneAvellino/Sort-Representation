@@ -7,13 +7,8 @@ import java.awt.*;
 public class Main {
 
     /*
-        PROGETTO INGEGNERIA DEL SOFTWARE
-        Nome: Simone
-        Cognome: Avellino
-        Matricola: 1000030497
-
-        Descrizione: Rappresentazione grafica di tutti gli algoritmi di sorting. Grazie ai design pattern usati
-                     è possibile rapprentare qualsiasi algoritmo di sorting esistente.
+        Rappresentazione grafica di tutti gli algoritmi di sorting. Grazie ai design pattern usati
+        è possibile rapprentare qualsiasi algoritmo di sorting esistente.
     */
 
 
@@ -21,8 +16,6 @@ public class Main {
     private static int ARRAY_LENGTH = 500;
     private static int MILLIS_SORT_SPEED_DELAY = 5;
     /*
-        Possible sorting strategy
-
         SelectionSortStrategy()
         QuickSortStrategy()
         MergeSortStrategy()

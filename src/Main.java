@@ -7,8 +7,8 @@ import java.awt.*;
 public class Main {
 
     /*
-        Rappresentazione grafica di tutti gli algoritmi di sorting. Grazie ai design pattern usati
-        è possibile rapprentare qualsiasi algoritmo di sorting esistente.
+        Graphical representation of all sorting algorithms. Thanks to the design patterns used
+        it is possible to represent any existing sorting algorithm in a flexible way.
     */
 
 
